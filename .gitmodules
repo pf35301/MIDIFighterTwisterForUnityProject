@@ -1,0 +1,3 @@
+[submodule "Assets/MIDIFighterForUnity"]
+	path = Assets/MIDIFighterForUnity
+	url = git@github.com:pf35301/MIDIFighterTwisterForUnity.git
