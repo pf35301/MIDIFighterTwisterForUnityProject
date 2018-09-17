@@ -1,13 +1,15 @@
 {
-    "name": "UnityTestRunner",
+    "name": "UnityTestRunnerEditMode",
     "references": [
-        "MidiJack",
-        "MidiFighterTwisterForUnity"
+        "MidiFighterTwisterForUnity",
+        "MidiJack"
     ],
     "optionalUnityReferences": [
         "TestAssemblies"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false
 }
