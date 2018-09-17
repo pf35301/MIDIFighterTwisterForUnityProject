@@ -1,6 +1,0 @@
-﻿{
-    "name": "MidiInput",
-    "optionalUnityReferences": [
-        "TestAssemblies"
-    ]
-}

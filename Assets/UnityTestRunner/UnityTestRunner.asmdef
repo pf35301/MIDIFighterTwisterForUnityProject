@@ -1,0 +1,13 @@
+{
+    "name": "UnityTestRunner",
+    "references": [
+        "MidiJack",
+        "MidiFighterTwisterForUnity"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
